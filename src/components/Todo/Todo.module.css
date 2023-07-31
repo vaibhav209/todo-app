@@ -1,0 +1,61 @@
+.todoContainer {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.todoContainer h1 {
+  text-align: center;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 33px;
+}
+
+.todoList ul {
+  list-style: none;
+  padding: 0;
+}
+
+.todoList li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.todoList li button {
+  margin-left: 10px;
+}
+
+.inputContainer input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.inputContainer button {
+  margin-top: 10px;
+}
+
+.btnSaveEdit {
+  display: flex;
+  gap: 8px;
+}
+
+.btnAligns {
+  display: flex;
+  justify-content: end;
+  margin: 1px 5px 0px 5px;
+}

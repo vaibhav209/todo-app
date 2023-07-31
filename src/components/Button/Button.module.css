@@ -1,0 +1,13 @@
+.btnStyles {
+  padding: 10px 10px;
+  border: none;
+  border-radius: 9px;
+  font-size: 16px;
+  cursor: pointer;
+  outline: none;
+}
+
+.btnStyles:disabled{
+  cursor: no-drop;
+}
+
