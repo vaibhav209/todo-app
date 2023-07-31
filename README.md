@@ -3,18 +3,12 @@
 This is a simple Todo App built with React that allows users to manage tasks. The app provides functionality to add, edit, and delete tasks in a list.
 
 
+## Installation
 
-Follow these steps to run the application locally:
-
-1. Clone the repository: [git clone](https://github.com/vaibhav209/todo-app.git)
-
-3. Navigate to the project directory: cd movie-ticket-booking-app
-
-5. Install the dependencies: npm install
-
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the dependencies using npm or yarn:
 7. Start the development server: npm start
-
-9. Open your browser and visit [localhost](http://localhost:3000) to see the app running.
 
 
 
